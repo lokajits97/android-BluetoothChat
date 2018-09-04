@@ -1,0 +1,4 @@
+#Thu Apr 19 13:42:28 IST 2018
+base.0=D\:\\Project work\\Android Development\\android-BluetoothChat-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
